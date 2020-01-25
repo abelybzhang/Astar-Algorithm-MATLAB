@@ -1,5 +1,6 @@
 # An matlab implementation of 2D A* algorithm
- An matlab implementation of 2D A* algorithm，more details can be found at https://mesywang.github.io/2020/01/23/Dijkstra-and-Astar/
+An matlab implementation of 2D A* algorithm，more details can be found at 
++ https://mesywang.github.io/2020/01/23/Dijkstra-and-Astar/
 
 ---
 
